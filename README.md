@@ -2,7 +2,7 @@
 
 Relevant Links:
 
-Repo: https://github.com/ConnerLowe1/p2.Conner.Lowe/
+Repository: https://github.com/ConnerLowe1/p2.Conner.Lowe/
 
 Report: https://connerlowe1.github.io/p2.Conner.Lowe/
 
