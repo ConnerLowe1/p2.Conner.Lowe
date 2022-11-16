@@ -1,0 +1,360 @@
+{
+    "sleep": [
+        {
+            "month": 11,
+            "day": 6,
+            "hours": 9,
+            "pctlight": 30,
+            "pctheavy": 70
+        },
+        {
+            "month": 11,
+            "day": 7,
+            "hours": 8,
+            "pctlight": 24,
+            "pctheavy": 76
+        },
+        {
+            "month": 11,
+            "day": 8,
+            "hours": 5,
+            "pctlight": 21,
+            "pctheavy": 79
+        },
+        {
+            "month": 11,
+            "day": 9,
+            "hours": 7,
+            "pctlight": 20,
+            "pctheavy": 80
+        },
+        {
+            "month": 11,
+            "day": 10,
+            "hours": 7,
+            "pctlight": 74,
+            "pctheavy": 26
+        },
+        {
+            "month": 11,
+            "day": 11,
+            "hours": 9,
+            "pctlight": 18,
+            "pctheavy": 82
+        },
+        {
+            "month": 11,
+            "day": 12,
+            "hours": 8,
+            "pctlight": 20,
+            "pctheavy": 80
+        },
+        {
+            "month": 11,
+            "day": 13,
+            "hours": 6,
+            "pctlight": 44,
+            "pctheavy": 56
+        },
+        {
+            "month": 11,
+            "day": 14,
+            "hours": 9,
+            "pctlight": 28,
+            "pctheavy": 72
+        },
+        {
+            "month": 11,
+            "day": 15,
+            "hours": 8,
+            "pctlight": 24,
+            "pctheavy": 76
+        },
+        {
+            "month": 11,
+            "day": 16,
+            "hours": 8,
+            "pctlight": 24,
+            "pctheavy": 76
+        },
+        {
+            "month": 11,
+            "day": 17,
+            "hours": 7,
+            "pctlight": 28,
+            "pctheavy": 72
+        },
+        {
+            "month": 11,
+            "day": 18,
+            "hours": 9,
+            "pctlight": 22,
+            "pctheavy": 78
+        },
+        {
+            "month": 11,
+            "day": 19,
+            "hours": 8,
+            "pctlight": 30,
+            "pctheavy": 70
+        }
+    ],
+    "weight": [
+        {
+            "month": 11,
+            "day": 6,
+            "pounds": 170.65
+        },
+        {
+            "month": 11,
+            "day": 7,
+            "pounds": 170.60
+        },
+        {
+            "month": 11,
+            "day": 8,
+            "pounds": 170.58
+        },
+        {
+            "month": 11,
+            "day": 9,
+            "pounds": 170.54
+        },
+        {
+            "month": 11,
+            "day": 10,
+            "pounds": 170.50
+        },
+        {
+            "month": 11,
+            "day": 11,
+            "pounds": 170.45
+        },
+        {
+            "month": 11,
+            "day": 12,
+            "pounds": 170.50
+        },
+        {
+            "month": 11,
+            "day": 13,
+            "pounds": 170.52
+        },
+        {
+            "month": 11,
+            "day": 14,
+            "pounds": 170.58
+        },
+        {
+            "month": 11,
+            "day": 15,
+            "pounds": 170.62
+        },
+        {
+            "month": 11,
+            "day": 16,
+            "pounds": 170.66
+        },
+        {
+            "month": 11,
+            "day": 171,
+            "pounds": 170.71
+        },
+        {
+            "month": 11,
+            "day": 18,
+            "pounds": 170.72
+        },
+        {
+            "month": 11,
+            "day": 19,
+            "pounds": 170.75
+        }
+    ],
+    "exercise": [
+        {
+            "month": 11,
+            "day": 6,
+            "hrsstanding": 3.2,
+            "hrsexercised": 1.5,
+            "steps": 8243
+        },
+        {
+            "month": 11,
+            "day": 7,
+            "hrsstanding": 2.9,
+            "hrsexercised": 1.25,
+            "steps": 7624
+        },
+        {
+            "month": 11,
+            "day": 8,
+            "hrsstanding": 3.5,
+            "hrsexercised": 1.2,
+            "steps": 4504
+        },
+        {
+            "month": 11,
+            "day": 9,
+            "hrsstanding": 3.4,
+            "hrsexercised": 1.5,
+            "steps": 5889
+        },
+        {
+            "month": 11,
+            "day": 10,
+            "hrsstanding": 5.4,
+            "hrsexercised": 0.75,
+            "steps": 4227
+        },
+        {
+            "month": 11,
+            "day": 11,
+            "hrsstanding": 3.4,
+            "hrsexercised": 1.5,
+            "steps": 7542
+        },
+        {
+            "month": 11,
+            "day": 12,
+            "hrsstanding": 4.2,
+            "hrsexercised": 0,
+            "steps": 4207
+        },
+        {
+            "month": 11,
+            "day": 13,
+            "hrsstanding": 4.4,
+            "hrsexercised": 0.25,
+            "steps": 4522
+        },
+        {
+            "month": 11,
+            "day": 14,
+            "hrsstanding": 3.4,
+            "hrsexercised": 0.75,
+            "steps": 6544
+        },
+        {
+            "month": 11,
+            "day": 15,
+            "hrsstanding": 3.2,
+            "hrsexercised": 1.5,
+            "steps": 8064
+        },
+        {
+            "month": 11,
+            "day": 16,
+            "hrsstanding": 3.4,
+            "hrsexercised": 1.5,
+            "steps": 6942
+        },
+        {
+            "month": 11,
+            "day": 17,
+            "hrsstanding": 3.3,
+            "hrsexercised": 1.5,
+            "steps": 7421
+        },
+        {
+            "month": 11,
+            "day": 18,
+            "hrsstanding": 3.5,
+            "hrsexercised": 0.75,
+            "steps": 6445
+        },
+        {
+            "month": 11,
+            "day": 19,
+            "hrsstanding": 5.3,
+            "hrsexercised": 1.25,
+            "steps": 7413
+        }
+    ],
+    "mirrortime": [
+        {
+            "month": 11,
+            "day": 6,
+            "minsmorning": 12,
+            "minsnight": 8
+        },
+        {
+            "month": 11,
+            "day": 7,
+            "minsmorning": 13,
+            "minsnight": 10
+        },
+        {
+            "month": 11,
+            "day": 8,
+            "minsmorning": 11,
+            "minsnight": 9
+        },
+        {
+            "month": 11,
+            "day": 9,
+            "minsmorning": 4,
+            "minsnight": 8
+        },
+        {
+            "month": 11,
+            "day": 10,
+            "minsmorning": 15,
+            "minsnight": 8
+        },
+        {
+            "month": 11,
+            "day": 11,
+            "minsmorning": 10,
+            "minsnight": 7
+        },
+        {
+            "month": 11,
+            "day": 12,
+            "minsmorning": 8,
+            "minsnight": 11
+        },
+        {
+            "month": 11,
+            "day": 13,
+            "minsmorning": 11,
+            "minsnight": 9
+        },
+        {
+            "month": 11,
+            "day": 14,
+            "minsmorning": 12,
+            "minsnight": 4
+        },
+        {
+            "month": 11,
+            "day": 15,
+            "minsmorning": 12,
+            "minsnight": "-"
+        },
+        {
+            "month": 11,
+            "day": 16,
+            "minsmorning": 13,
+            "minsnight": 10
+        },
+        {
+            "month": 11,
+            "day": 17,
+            "minsmorning": 10,
+            "minsnight": 8
+        },
+        {
+            "month": 11,
+            "day": 18,
+            "minsmorning": 12,
+            "minsnight": 6
+        },
+        {
+            "month": 11,
+            "day": 19,
+            "minsmorning": 11,
+            "minsnight": 5
+        }
+    ]
+}

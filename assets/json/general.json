@@ -1,0 +1,174 @@
+{
+    "weather": [
+        {
+            "name": "Sunday",
+            "month": 11,
+            "day": 13,
+            "high": 56,
+            "low": 30,
+            "fore": "Cloudy"
+        },
+        {
+            "name": "Monday",
+            "month": 11,
+            "day": 14,
+            "high": 60,
+            "low": 45,
+            "fore": "Sunny"
+        },
+        {
+            "name": "Tuesday",
+            "month": 11,
+            "day": 15,
+            "high": 49,
+            "low": 21,
+            "fore": "Cloudy"
+        },
+        {
+            "name": "Wednesday",
+            "month": 11,
+            "day": 16,
+            "high": 48,
+            "low": 26,
+            "fore": "Cloudy"
+        },
+        {
+            "name": "Thursday",
+            "month": 11,
+            "day": 17,
+            "high": 54,
+            "low": 26,
+            "fore": "Sunny"
+        },
+        {
+            "name": "Friday",
+            "month": 11,
+            "day": 18,
+            "high": 42,
+            "low": 26,
+            "fore": "Cloudy"
+        },
+        {
+            "name": "Saturday",
+            "month": 11,
+            "day": 19,
+            "high": 46,
+            "low": 25,
+            "fore": "Cloudy"
+        },
+        {
+            "name": "Sunday",
+            "month": 11,
+            "day": 20,
+            "high": 50,
+            "low": 23,
+            "fore": "Cloudy"
+        }
+    ],
+    "news": [
+        {
+            "headline": "Kari Lake Loses Governor's Race in Battleground Arizona",
+            "publisher":"Reuters",
+            "author": "Julia Harte",
+            "date": "11/14/2022",
+            "topic": "US Politics"
+        },
+        {
+            "headline": "Fed's Brainard Says Rate-Rise Pace Can Slow Soon",
+            "publisher":"Wall Street Journal",
+            "author": "Nick Timiraos",
+            "date": "11/14/2022",
+            "topic": "Economics"
+        },
+        {
+            "headline": "Russia Strives to Avoid G20 Isolation as China and India...",
+            "publisher":"The Guardian",
+            "author": "Patrick Wintour",
+            "date": "11/15/2022",
+            "topic": "World News"
+        },
+        {
+            "headline": "With Tensions Mounting, Biden and Xi Try a Warmer Tone",
+            "publisher":"New York Times",
+            "author": "Katie Rogers",
+            "date": "11/15/2022",
+            "topic": "World News"
+        }
+    ],
+    "calendar": [
+        {
+            "month": 11,
+            "day": 13,
+            "activity1": null,
+            "time1": null
+        },
+        {
+            "month": 11,
+            "day": 14,
+            "activity1": "Wake Up",
+            "time1": "8:00 AM",
+            "activity2": "CS 3365",
+            "time2": "6:00 PM",
+            "activity3": "Sleep",
+            "time3": "11:30 PM"
+        },
+        {
+            "month": 11,
+            "day": 15,
+            "activity1": "Wake Up",
+            "time1": "8:00 AM",
+            "activity2": "CS 4331",
+            "time2": "9:30 AM",
+            "activity3": "CS 3366",
+            "time3": "11:00 AM",
+            "activity4": "ENGR 2392",
+            "time4": "12:30 PM",
+            "activity5": "CS 1382",
+            "time5": "2:00 PM",
+            "activity6": "Sleep",
+            "time6": "11:30 PM"
+        },
+        {
+            "month": 11,
+            "day": 16,
+            "activity1": "Wake Up",
+            "time1": "8:00 AM",
+            "activity2": "CS 3365",
+            "time2": "6:00 PM",
+            "activity3": "Sleep",
+            "time3": "11:30 PM"
+        },
+        {
+            "month": 11,
+            "day": 17,
+            "activity1": "Wake Up",
+            "time1": "8:00 AM",
+            "activity2": "CS 4331",
+            "time2": "9:30 AM",
+            "activity3": "CS 3366",
+            "time3": "11:00 AM",
+            "activity4": "ENGR 2392",
+            "time4": "12:30 PM",
+            "activity5": "CS 1382",
+            "time5": "2:00 PM",
+            "activity6": "Sleep",
+            "time6": "11:30 PM"
+        },
+        {
+            "month": 11,
+            "day": 18,
+            "activity1": "Wake Up",
+            "time1": "8:00 AM",
+            "activity2": "CS 3365",
+            "time2": "6:00 PM",
+            "activity3": "Sleep",
+            "time3": "11:30 PM"
+        },
+        {
+            "month": 11,
+            "day": 19,
+            "activity": null,
+            "time1": null 
+        }
+    ]
+}
